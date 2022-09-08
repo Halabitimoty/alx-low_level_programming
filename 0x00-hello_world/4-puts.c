@@ -2,7 +2,7 @@
 /**
  * *main - Entry point function
  * *Return:This will Always 0 that is(interger) (Success)
- * */
+ */
 
 int main(void)
 {
