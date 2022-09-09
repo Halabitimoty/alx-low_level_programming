@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <ctype.h>
 /**
- *  ** * main - Entry point
- *   ** * Return: Always 0 (Success)
- *    ** * task : print out alphabet except e and q
- *     */
+ ** main - Entry point
+ ** Return: Always 0 (Success)
+ ** task : print out decimals
+ */
 
 int main(void)
 {
