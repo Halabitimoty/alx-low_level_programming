@@ -4,7 +4,7 @@
  *  ** main - Entry point
  *   ** Return: Always 0 (Success)
  *    ** task : print out decimals
- *     */
+ */
 
 int main(void)
 {
@@ -12,7 +12,7 @@ int main(void)
 
 	for (n = 0; n <= 9; n++)
 	{
-		putchar(n);
+		putchar(stoi(n));
 	}
 
 	putchar('\n');
