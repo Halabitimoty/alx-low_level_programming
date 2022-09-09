@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *main - Entry point
- *Return; Always 0(Sucess)
+ *Return: Always 0 (Success)
  *TasK : print numbers with , seperating them
  */
 
