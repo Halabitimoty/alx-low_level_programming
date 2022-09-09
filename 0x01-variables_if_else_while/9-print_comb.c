@@ -3,7 +3,6 @@
  *main - Entry point
  *Return; Always 0(Sucess)
  *TasK : print numbers with , seperating them
- *
  */
 
 int main(void)
