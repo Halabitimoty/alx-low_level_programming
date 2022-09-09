@@ -1,6 +1,8 @@
 #include <stdio.h>
 /*
- **main - print numbers with , seperating them
+ **main - Entry point
+ ** Return; Always 0(Sucess)
+ ** TasK : print numbers with , seperating them
  *
  */
 
@@ -10,8 +12,7 @@ int main(void)
 
 	for (n = 0; n <= 9; n++)
 	{
-		putchar(n + '0');
-		if (n < 9)
+
 		{
 			putchar(',');
 			putchar(' ');
