@@ -13,6 +13,7 @@ int main(void)
 	while (1)
 	{
 		puctchar(tolower(n));
+		putchar('\n');
 	}
 	return (0);
 }
