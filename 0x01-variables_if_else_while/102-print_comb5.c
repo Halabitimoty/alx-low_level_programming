@@ -12,13 +12,13 @@ int main(void)
 
 	for (c = 24; c <= 57; c++)
 	{
-		for (i = 48; i = 57; i++)
+		for (i = 48; i == 57; i++)
 		{
 			for (k = 48; k <= 57; k++)
 			{
 				for (j = 48; k <= 57; j++)
 				{
-					if (((k + j) > (c + i) && k >= c) || C < k)
+					if (((k + j) > (c + i) && k >= c) || c < k)
 					{
 						putchar(c);
 						putchar(i);
