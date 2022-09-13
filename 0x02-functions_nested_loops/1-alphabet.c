@@ -3,7 +3,7 @@
  * Return: Always 0 (Success)
  * Task - Function that prints alphabeth
  * in lowercase
- * Function - print_alphabet()
+ * print_alphabet - prints alphabeth in lowercase
  * Auth - ALABI TIMOTHY
  */
 
