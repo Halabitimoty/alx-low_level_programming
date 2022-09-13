@@ -3,7 +3,7 @@
 /**
  * _abs - computes the absolute value of an integer
  * @n: value of interger
- * Returns - Absolute value
+ * Return: Absolute value
  * Auth - ALABI TIMOTHY
  */
 
