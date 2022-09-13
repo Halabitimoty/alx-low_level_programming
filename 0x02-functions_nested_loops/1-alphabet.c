@@ -1,8 +1,9 @@
 /**
  * main - Entry point
  * Return: Always 0 (Success)
- * Task - Function that prints alphabeth 
+ * Task - Function that prints alphabeth
  * in lowercase
+ * Function - print_alphabet()
  * Auth - ALABI TIMOTHY
  */
 
