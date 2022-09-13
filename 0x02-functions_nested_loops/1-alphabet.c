@@ -1,4 +1,5 @@
 /**
+ * main - Entry point
  * Return: Always 0 (Success)
  * print_alphabet - function prints alphabeth in lowercase
  * Auth - ALABI TIMOTHY
