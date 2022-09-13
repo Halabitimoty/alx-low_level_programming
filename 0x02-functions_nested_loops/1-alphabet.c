@@ -1,5 +1,5 @@
 /*
- * print_alphabet - function print alphabet in lowercase
+ * print_alphabet - function to print abc
  *
  */
 
