@@ -4,7 +4,7 @@
  * _islower function - checks if an input
  * @c : character is lower or not
  *
- * Return - 1 if true and 0 if false
+ * Return: 1 if true and 0 if false
  *
  */
 
