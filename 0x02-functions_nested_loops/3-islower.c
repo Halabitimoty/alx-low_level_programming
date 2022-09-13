@@ -2,10 +2,10 @@
 #include "main.h"
 
 /**
- * islower function - checks if an input
+ * _islower function - checks if an input
  * character is lower or not
  *
- * Return - Returns 1 if true and 0 if false
+ * _islower Return - Returns 1 if true and 0 if false
  *
  */
 
