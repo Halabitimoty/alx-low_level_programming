@@ -1,6 +1,6 @@
 /*
  * print_alphabet - function print alphabet in lowercase
- * Auth - ALABI TIMOTHY
+ *
  */
 
 #include "main.h"
