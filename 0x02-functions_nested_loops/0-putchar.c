@@ -1,6 +1,6 @@
 /**
  * main - Entry point
- * Return - Always 0 (Success)
+ * Return: Always 0 (Success)
  * Task - Prints "_putchar" followed by new line
  * Auth - ALABI TIMOTHY
  */
