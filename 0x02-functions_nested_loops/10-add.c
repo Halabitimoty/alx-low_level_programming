@@ -2,8 +2,8 @@
 
 /**
  * add - Adds two integers
- * @num1: The first integer
- * @num2: The second integer
+ * @numb1: The first integer
+ * @numb2: The second integer
  * Return: The result of the addition
  * Auth - ALABI TIMOTHY
  */
