@@ -5,7 +5,6 @@
  * @n: The number to begin counting at.
  *
  * Auth - ALABI TIMOTHY,
- *
  */
 
 void print_to_98(int n)
