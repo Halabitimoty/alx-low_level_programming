@@ -3,12 +3,12 @@
 /* more headers goes there */
 #include <stdio.h>
 /**
- *  * *main - Entry point
- *   * *Return: Always 0 (Success)
- *    * *task - prints if the input (n)
- *     * *is positive, zero and negative
- *      */
-/* betty style doc for function main goes there */
+ * main - Entry point
+ * Return: Always 0 (Success)
+ * task - prints if the input (n)
+ * is positive, zero and negative
+ */
+
 void positive_or_negative(int i)
 {
 	srand(time(0));
