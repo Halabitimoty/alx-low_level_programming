@@ -3,6 +3,7 @@
 /**
  * main - Prints natural numbers below 1024 that are
  * multiplies of 3 or 5Return: Always 0.
+ * Return: Always Return 0 (Success)
  * Auth - ALABI TIMOTHY
  */
 int main(void)
@@ -14,7 +15,7 @@ int main(void)
 		if ((a % 3) == 0 || (a % 5) == 0)
 			b += a;
 	}
-		
-		printf("%d\n", b);
+	printf("%d\n", b);
+	
 	return (0);
 }
