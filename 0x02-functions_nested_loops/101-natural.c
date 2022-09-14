@@ -6,6 +6,7 @@
  * Return: Always Return 0 (Success)
  * Auth - ALABI TIMOTHY
  */
+
 int main(void)
 {
 	int a, b;
