@@ -4,9 +4,10 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Return: Always 0 (Success)
- * task - prints if the input (n)
+ * positive_or_negative - prints if the input (n)
  * is positive, zero and negative
+ * @i: value of input
+ * Return: Always 0 (Success)
  */
 
 void positive_or_negative(int i)
