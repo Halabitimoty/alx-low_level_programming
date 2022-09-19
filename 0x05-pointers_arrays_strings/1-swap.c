@@ -6,7 +6,6 @@
  *
  * @a: input parameter 1
  * @b: input parameter 2
- * @temp: swapping mechanizm
  *
  */
 
