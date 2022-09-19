@@ -13,10 +13,9 @@ void _puts(char *str)
 
 	count = 0;
 
-	while (*str != '\0')
+	while (*(str + count) != '\0')
 	{
 		_putchar(str[count]);
-		str++;
 		count++;
 	}
 	_putchar('\n');
