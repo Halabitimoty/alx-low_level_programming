@@ -1,11 +1,5 @@
 #include <stdio.h>
 
-/**
- *main - entry function.
- *
- *Return: Always returns 0.
- */
-
 int main(void)
 {
 	int n;
