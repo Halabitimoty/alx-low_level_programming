@@ -17,14 +17,14 @@ unsigned int _strspn(char *s, char *accept)
 
 	i = 0;
 
-	while (*(s + i) != '\0')
+	while ((s + i) != '\0')
 	{
 		j = 0;
 		flag = 1;
 
-		while (*(accept + i) != '\0')
+		while ((accept + i) != '\0')
 		{
-			if (*(s + i) == *(accept + j))
+			if ((s + i) == (accept + j))
 			{
 				flag = 0;
 				break;
