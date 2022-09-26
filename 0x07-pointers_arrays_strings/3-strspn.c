@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * _strchr - function that gets the length of a prefix substring.
+ * _strspn - function that gets the length of a prefix substring.
  *
  * @s: string pointer to char type
  * @accept: consist only of bytes
