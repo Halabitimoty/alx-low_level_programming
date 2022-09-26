@@ -4,6 +4,7 @@
 /**
  * print_chessboard - function that prints the chessboard
  *
+ * @a: pointer o the array
  * Return: No Return
  *
  * AUTHOR -  ALABI TIMOTHY
