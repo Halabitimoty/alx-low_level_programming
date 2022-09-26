@@ -4,7 +4,6 @@
 /**
  * print_chessboard - function that prints the chessboard
  *
- *
  * Return: No Return
  *
  * AUTHOR -  ALABI TIMOTHY
