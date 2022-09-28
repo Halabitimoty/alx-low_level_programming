@@ -1,7 +1,21 @@
 /**
- * main - check the code
+ * factorial - function that returns the factorial of a given number
  *
- * Return: Always 0.
+ * @n: char parameter
+ *
+ * Return: returns the factorial of a given number.
  *
  * Author - ALABI TIMOTHY
  */
+
+int factorial(int n)
+{
+	if (n < 0)
+		return (-1);
+
+	else if (n == 1)
+		return (1);
+
+	else
+		n * factorial(n - 1);
+}
