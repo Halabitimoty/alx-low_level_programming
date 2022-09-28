@@ -1,7 +1,22 @@
 /**
- * main - check the code
+ * _pow_recursion - function that returns
+ * the value of x raised to the power of y.
  *
- * Return: Always 0.
+ * @x: value
+ * @y: power
+ *
+ * Return: returns the value of x raised to the power of y.
  *
  * Author - ALABI TIMOTHY
  */
+
+int _pow_recursion(int x, int y)
+{
+	if (y < 0)
+		return (-1);
+	if (y > 0)
+	{
+		return (x * _pow_recursion(x, y - 1));
+	}
+	return (1);
+}
