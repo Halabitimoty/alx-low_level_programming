@@ -3,6 +3,7 @@
 /**
  * _print_rev_recursion - function that prints a string in reverse.
  *
+ * @s: char parameter
  * Return: Nothing.
  *
  * Author - ALABI TIMOTHY
