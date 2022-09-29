@@ -1,6 +1,8 @@
 /**
- * main - check the code
+ * helper - check the code
  *
+ * @i: integer parameter
+ * @n: integer parameter
  * Return: Always 0.
  *
  * Author - ALABI TIMOTHY
