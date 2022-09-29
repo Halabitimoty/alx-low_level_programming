@@ -49,7 +49,7 @@ void iterate_wild(char **wildstr)
  *   *                 another string potentially containing wildcards.
  *    * @str: The string to be matched.
  *     * @postfix: The postfix.
- *     Return :If str and postfix are
+ *     Return: If str and postfix are
  *       identical - a pointer to the null byte
  *        * located at the end of postfix.
  *        *Otherwise - a pointer to the first
