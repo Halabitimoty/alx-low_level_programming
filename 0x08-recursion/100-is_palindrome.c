@@ -4,10 +4,11 @@
  *   * @s: string
  *    * Return: string length
  *     */
+
 int length(char *s)
 {
 	int i = 0;
-
+	
 	if (*s)
 	{
 								i = i + length(s + 1);
@@ -17,10 +18,11 @@ int length(char *s)
 }
 /**
  *  * helper2 - helps more
- *   * @i: integer i
- *    * @s: string
- *     * Return: int value
- *      */
+ *  * @i: integer i
+ *  * @s: string
+ *  * Return: int value
+ *  */
+
 int helper2(int i, char *s)
 {
 	if (*s)
@@ -35,10 +37,10 @@ int helper2(int i, char *s)
 	return (1);
 }
 /**
- *  * is_palindrome - is it paldindrome
- *   * @s: string to check
- *    * Return: boolean
- *     */
+ ** is_palindrome - is it paldindrome
+ ** @s: string to check
+ ** Return: boolean
+ **/
 
 int is_palindrome(char *s)
 {
