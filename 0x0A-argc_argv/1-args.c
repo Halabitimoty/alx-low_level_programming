@@ -11,15 +11,10 @@
  * Return: Always 0 (Success)
  */
 
-int main(int argc, char _attribute_((unused)) * argv[])
+int main(int argc, char * argv[])
 {
-	int i = 0, m;
+	argv = argv;
 
-	while (i < argc)
-	{
-		m = i;
-		i++;
-	}
-	printf("%d\n", m);
+	printf("%d\n", argc - 1);
 	return (0);
 }
