@@ -5,5 +5,5 @@
 # that are in the current directory
 
 gcc -c *.c
-ar rc liball.a *.o
+ar -rcs liball.a *.o
 randlib liball.a
