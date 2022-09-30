@@ -11,7 +11,7 @@
  *
  */
 
-int main(int _attribute_((unused)) argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	int i = 0;
 
