@@ -1,19 +1,13 @@
 #include <stdio.h>
-#include "dog.h"
 
 /**
- * main - check the code for ALX School students.
+ * main - check t
  *
  * Return: Always 0.
  */
 
 int main(void)
 {
-	struct dog my_dog;
-
-	my_dog.name = "Poppy";
-	my_dog.age = 3.5;
-	my_dog.owner = "Bob";
-	print_dog(&my_dog);
+	printf("%s\n", __FILE__);
 	return (0);
 }
