@@ -24,7 +24,7 @@ int int_index(int *array, int size, int (*cmp)(int))
 		for (index = 0; index < size; index++)
 		{
 			y = cmp(array[index]);
-			if (y == TRUE)
+			if (y == 1)
 				return (index);
 		}
 	}
