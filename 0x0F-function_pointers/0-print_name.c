@@ -1,7 +1,7 @@
 /**
  *
  * print_name - a function that prints a name.
- * @name : Character Pointer
+ * @name: Character Pointer
  * @f: function pointer that doesn't return anything
  * @author Alabi Timothy
  *
